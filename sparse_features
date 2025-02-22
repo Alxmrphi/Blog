@@ -1,2 +1,7 @@
 Sparse Autoencoders for Feature Interpretability
 Jan 2025
+
+
+Map to higher dim. Sparsity penalty.
+Still not always interpretable.
+However, new methods exist ...
